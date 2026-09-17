@@ -17,13 +17,13 @@ I build reliable, practical software and enjoy turning complex workflows into si
 
 ## Featured projects
 
-| Project | Visibility | Description | Stack |
-| --- | --- | --- | --- |
-| [RentHouse Intel](https://github.com/mrharrysharma99/seo-ads-intelligence) | Public | AI-powered SEO and advertising intelligence for Indian rental real estate | React, TypeScript, Vite, Tailwind CSS |
-| [Hari Portfolio](https://github.com/mrharrysharma99/hari-portfolio) | Public | Personal portfolio and professional showcase | React, TypeScript, Tailwind CSS |
-| `renthouse-mobile-app` | Private | RentHouse cross-platform mobile app connected to the RentHouse API | Expo, React Native, TypeScript |
-| `Django-Rent-House` | Private | Django-based RentHouse application/backend project | Django, Python |
-| `smart-employee-attendance` | Private | Web-based time tracking and employee attendance management system | TypeScript |
+| Project | Visibility | Live demo / website | Description | Stack |
+| --- | --- | --- | --- | --- |
+| [RentHouse Intel](https://github.com/mrharrysharma99/seo-ads-intelligence) | Public | [Open project](https://renthouse.co.in/) | AI-powered SEO and advertising intelligence for Indian rental real estate | React, TypeScript, Vite, Tailwind CSS |
+| [Hari Portfolio](https://github.com/mrharrysharma99/hari-portfolio) | Public | [View portfolio](https://github.com/mrharrysharma99/hari-portfolio) | Personal portfolio and professional showcase | React, TypeScript, Tailwind CSS |
+| [`renthouse-mobile-app`](https://github.com/mrharrysharma99/renthouse-mobile-app) | Private | [Open mobile app](https://app.renthouse.co.in/) | RentHouse cross-platform mobile app connected to the RentHouse API | Expo, React Native, TypeScript |
+| [`Django-Rent-House`](https://github.com/mrharrysharma99/Django-Rent-House) | Private | [Open RentHouse](https://renthouse.co.in/) | Django-based RentHouse application/backend project | Django, Python |
+| [`smart-employee-attendance`](https://github.com/mrharrysharma99/smart-employee-attendance) | Private | [Open attendance demo](https://demo.trackflowsolutions.tech/login) | Web-based time tracking and employee attendance management system | TypeScript |
 
 > The three private projects are included for context but are not publicly accessible to profile visitors.
 
