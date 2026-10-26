@@ -67,5 +67,5 @@ If you are working on useful software, AI products, vibe coding, or developer to
 ---
 
 <div align="center">
-  <i>Building thoughtfully. Coding creatively. Learning continuously.</i>
+  <i>Building thoughtfully. Coding creatively. Learning continuously. </i>
 </div>
